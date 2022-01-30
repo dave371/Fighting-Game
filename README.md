@@ -95,8 +95,6 @@
 <p>Exit button</p>
 
 <h2 name="contributing">Contributing</h2>
-<p>People who contributed to the project are:</p>
-<p>Shubh Pitroda</p>
 <p>David Pacheco</p>
 
 <h2 name="credits">Credits</h2>
